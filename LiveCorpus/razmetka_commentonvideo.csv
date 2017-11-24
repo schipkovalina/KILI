@@ -1,0 +1,850 @@
+9850;#doc=commentonvideo.2.txt;FORM;LEMMA;GRAM;COMMENT;CHECKED;RIGHT1;RIGHT2;RIGHT3;RIGHT4;RIGHT5;RIGHT6;POS;AUTO_LEMMA;AUTO_GRAMM
+9851;1;€;€;PUNC;;YES;;;;;;;PUNC;€;PUNC
+9852;2;Ќ.;Ќ.;INIT abbr;;YES;;н;;;;;INIT;Ќ.;S - - nonflex nonflex
+9853;3;ћ.;ћ.;INIT abbr;;YES;;м;;;;;INIT;ћ.;S - - nonflex nonflex
+9854;4;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+9855;5;ƒобрый;ƒќЅ–џ…;A - nom sg plen m -;;YES;й;ы;р;б;о;д;A;ƒќЅ–џ…;A - nom sg plen m -
+9856;6;вечер;¬≈„≈–;S m inan nom sg;;YES;р;е;ч;е;в;;S;¬≈„≈–;S m inan nom sg
+9857;7;!;!;SENT;;YES;;;;;;;SENT;!;SENT
+9858;;;;;;YES;;;;;;;;;
+9859;1;ћен€;я;S-PRO sg 1p acc;;YES;€;н;е;м;;;S-PRO;я;SPRO sg 1p - acc
+9860;2;зовут;«¬ј“№;V ipf praes pl indic - 3p;;YES;т;у;в;о;з;;V;«¬ј“№;V ipf praes pl indic - 3p
+9861;3;Ќина;Ќ»Ќј;S f anim nom sg persn;;YES;а;н;и;н;;;S;Ќ»Ќј;S f anim nom sg
+9862;4;ћихайловна;ћ»’ј…Ћќ¬Ќј;S f anim nom sg famn;;YES;а;н;в;о;л;й;S;ћ»’ј…Ћќ¬Ќј;S f anim nom sg
+9863;5;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+9864;;;;;;YES;;;;;;;;;
+9865;1;¬;¬;PR;;YES;в;;;;;;PR;¬;PR
+9866;2;декабре;ƒ≈ јЅ–№;S m inan loc2 sg;;YES;е;р;б;а;к;е;S;ƒ≈ јЅ–№;S m inan loc sg
+9867;3;мес€це;ћ≈—я÷;S m inan loc2 sg;;YES;е;ц;€;с;е;м;S;ћ≈—я÷;S m inan loc sg
+9868;4;исполнитс€;»—ѕќЋЌ»“№—я;V pf fut sg indic med 3p;;YES;€;с;т;и;н;л;V;»—ѕќЋЌ»“№—я;V pf fut sg indic - 3p
+9869;5;48;48;NUM - - -;;YES;;;;;;;NUM;48;NUM - - -
+9870;6;лет;√ќƒ;S m inan gen pl;;YES;т;е;л;;;;S;√ќƒ;S m inan gen pl
+9871;7;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+9872;8;как; ј ;CONJ;;YES;к;а;к;;;;CONJ; ј ;CONJ
+9873;9;€;я;S-PRO sg 1p - nom;;YES;€;;;;;;S-PRO;я;SPRO sg 1p - nom
+9874;10;работаю;–јЅќ“ј“№;V ipf praes sg indic 1p;;YES;ю;а;т;о;б;а;V;–јЅќ“ј“№;V ipf praes sg indic - 1p
+9875;11;в;¬;PR;;YES;в;;;;;;PR;¬;PR
+9876;12;школе;Ў ќЋј;S f inan loc2 sg;;YES;е;л;о;к;ш;;S;Ў ќЋј;S f inan loc sg
+9877;13;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+9878;14;учителем;”„»“≈Ћ№;S m anim ins sg;;YES;м;е;л;е;т;и;S;”„»“≈Ћ№;S m anim ins sg
+9879;15;самого;—јћџ…;A gen sg plen m -;;YES;о;г;о;м;а;с;A;—јћџ…;A - gen sg plen m -
+9880;16;главного;√Ћј¬Ќџ…;A gen sg plen m -;;YES;о;г;о;н;в;а;A;√Ћј¬Ќџ…;A - gen sg plen m -
+9881;17;предмета;ѕ–≈ƒћ≈“;S m inan gen sg;;YES;а;т;е;м;д;е;S;ѕ–≈ƒћ≈“;S m inan gen sg
+9882;18;-;-;PUNC;;YES;;;;;;;PUNC;-;PUNC
+9883;19;русского;–”—— »…;A gen sg plen m -;;YES;о;г;о;к;с;с;A;–”—— »…;A - gen sg plen m -
+9884;20;€зыка;я«џ ;S m inan gen sg;;YES;а;к;ы;з;€;;S;я«џ ;S m inan gen sg
+9885;21;и;»;CONJ;;YES;и;;;;;;CONJ;»;CONJ
+9886;22;литературы;Ћ»“≈–ј“”–ј;S f inan gen sg;;YES;ы;р;у;т;а;р;S;Ћ»“≈–ј“”–ј;S f inan gen sg
+9887;23;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+9888;;;;;;YES;;;;;;;;;
+9889;1;ј;ј;CONJ;;YES;а;;;;;;CONJ;ј;CONJ
+9890;2;сейчас;—≈…„ј—;ADV -;;YES;с;а;ч;й;е;с;ADV;—≈…„ј—;ADV -
+9891;3;€;я;S-PRO sg 1p nom;;YES;€;;;;;;S-PRO;я;SPRO sg 1p - nom
+9892;4;приехала;ѕ–»≈’ј“№;V pf praet sg indic f 1p;;YES;а;л;а;х;е;и;V;ѕ–»≈’ј“№;V pf praet sg indic f -
+9893;5;к; ;PR;;YES;к;;;;;;PR; ;PR
+9894;6;внучке;¬Ќ”„ ј;S f anim dat sg;;YES;е;к;ч;у;н;в;S;¬Ќ”„ ј;S f anim loc sg
+9895;7;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+9896;8;выполнить;¬џѕќЋЌ»“№;V pf - - inf - -;;YES;ь;т;и;н;л;о;V;¬џѕќЋЌ»“№;V pf - - inf - -
+9897;9;еЄ;ќЌј;S-PRO sg 3p f acc;;YES;Є;е;;;;;S-PRO;ќЌј;SPRO sg 3p f acc
+9898;10;какое-то; ј ќ…-“ќ;A inan acc sg plen n -;;YES;о;т;;е;о;к;A; ј ќ…-“ќ;A - nom sg plen n -
+9899;11;задание;«јƒјЌ»≈;S n inan acc sg;;YES;е;и;н;а;д;а;S;«јƒјЌ»≈;S n inan acc sg
+9900;12;по;ѕќ;PR;;YES;о;п;;;;;PR;ѕќ;PR
+9901;13;лингвистике;Ћ»Ќ√¬»—“» ј;S f inan dat sg;;YES;е;к;и;т;с;и;S;Ћ»Ќ√¬»—“» ј;S f inan loc sg
+9902;14;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+9903;;;;;;YES;;;;;;;;;
+9904;1;»так;»“ј ;PARENTH;;YES;к;а;т;и;;;PARENTH;»“ј ;CONJ
+9905;2;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+9906;3;мы;ћџ;S-PRO pl 1p nom;;YES;ы;м;;;;;S-PRO;ћџ;SPRO pl 1p - nom
+9907;4;начинаем;Ќј„»Ќј“№;V ipf praes pl indic 1p;;YES;м;е;а;н;и;ч;V;Ќј„»Ќј“№;V ipf praes pl indic - 1p
+9908;5;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+9909;;;;;;YES;;;;;;;;;
+9910;1;Ќу;Ќ”;PART;;YES;у;н;;;;;PART;Ќ”;PART
+9911;2;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+9912;3;и;»;CONJ;;YES;и;;;;;;CONJ;»;CONJ
+9913;4;что;„“ќ;S-PRO inan n sg nom;;YES;о;т;ч;;;;S-PRO;„“ќ;S n inan acc sg
+9914;5;?;?;SENT;;YES;;;;;;;SENT;?;SENT
+9915;;;;;;YES;;;;;;;;;
+9916;1;ѕлохо;ѕЋќ’ќ;ADV -;;YES;о;х;о;л;п;;ADV;ѕЋќ’ќ;ADV -
+9917;2;?;?;SENT;;YES;;;;;;;SENT;?;SENT
+9918;;;;;;YES;;;;;;;;;
+9919;1;√олос;√ќЋќ—;S m inan nom sg;;YES;с;о;л;о;г;;S;√ќЋќ—;S m inan nom sg
+9920;2;за;«ј;PR;;YES;а;з;;;;;PR;«ј;PR
+9921;3;кадром; јƒ–;S m inan ins sg;;YES;м;о;р;д;а;к;S; јƒ–;S m inan ins sg
+9922;4;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+9923;5;Ќет;Ќ≈“;PART;;YES;т;е;н;;;;PART;Ќ≈“;PART
+9924;6;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+9925;7;хорошо;’ќ–ќЎќ;ADV -;;YES;о;ш;о;р;о;х;ADV;’ќ–ќЎќ;ADV -
+9926;8;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+9927;;;;;;YES;;;;;;;;;
+9928;1;ƒавай;ƒј¬ј“№;V ipf - sg imper 2p;;YES;й;а;в;а;д;;V;ƒј¬ј“№;V ipf - sg imper - 2p
+9929;2;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+9930;;;;;;YES;;;;;;;;;
+9931;1;Ќ;Ќ;INIT abbr;;YES;н;;;;;;INIT;Ќ;S - - nonflex nonflex
+9932;2;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+9933;;;;;;YES;;;;;;;;;
+9934;1;ћ.;ћ.;INIT abbr;;YES;;м;;;;;INIT;ћ.;S - - nonflex nonflex
+9935;2;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+9936;3;<;<;PUNC;;YES;;;;;;;PUNC;<;PUNC
+9937;4;distinct;DISTINCT;NONLEX;;YES;;;;;;;NONLEX;DISTINCT;NONLEX
+9938;5;form;FORM;NONLEX;;YES;;;;;;;NONLEX;FORM;NONLEX
+9939;6;=;=;PUNC;;YES;;;;;;;PUNC;=;PUNC
+9940;7;"	";_;;;YES;;;;;;;;_;8
+9941;8;„Є;„≈;S-PRO n sg acc;distort;YES;Є;ч;;;;;S-PRO;„≈;S n - nonflex nonflex
+9942;9;"	";_;;;YES;;;;;;;;_;8
+9943;10;>;>;PUNC;;YES;;;;;;;PUNC;>;PUNC
+9944;11;„то;„“ќ;S-PRO inan n sg acc;;YES;о;т;ч;;;;S-PRO;„“ќ;S n - acc sg
+9945;12;<;<;PUNC;;YES;;;;;;;PUNC;<;PUNC
+9946;13;/;/;PUNC;;YES;;;;;;;PUNC;/;PUNC
+9947;14;distinct;DISTINCT;NONLEX;;YES;;;;;;;NONLEX;DISTINCT;NONLEX
+9948;15;>;>;PUNC;;YES;;;;;;;PUNC;>;PUNC
+9949;16;давай;ƒј¬ј“№;V ipf - sg imper 2p;;YES;й;а;в;а;д;;V;ƒј¬ј“№;V ipf - sg imper - 2p
+9950;17;?;?;SENT;;YES;;;;;;;SENT;?;SENT
+9951;;;;;;YES;;;;;;;;;
+9952;1;Ќу;Ќ”;INTJ;;YES;у;н;;;;;INTJ;Ќ”;PART
+9953;2;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+9954;3;ты;“џ;S-PRO sg 2p nom;;YES;ы;т;;;;;S-PRO;“џ;SPRO sg 2p - nom
+9955;4;это;Ё“ќ;S-PRO inan n sg;distort;YES;о;т;э;;;;;Ё“ќ;S n inan acc sg
+9956;5;уже;”∆≈;ADV -;;YES;е;ж;у;;;;ADV;”∆≈;ADV -
+9957;6;не;Ќ≈;PART;;YES;е;н;;;;;PART;Ќ≈;PART
+9958;7;это;Ё“ќ;S-PRO inan n sg;;YES;о;т;э;;;;S;Ё“ќ;S n - nom sg
+9959;8;самое;—јћџ…;A - nom sg plen n -;;YES;е;о;м;а;с;;A;—јћџ…;A - nom sg plen n -
+9960;9;?;?;SENT;;YES;;;;;;;SENT;?;SENT
+9961;;;;;;YES;;;;;;;;;
+9962;1;√олос;√ќЋќ—;S m inan nom sg;;YES;с;о;л;о;г;;S;√ќЋќ—;S m inan nom sg
+9963;2;за;«ј;PR;;YES;а;з;;;;;PR;«ј;PR
+9964;3;кадром; јƒ–;S m inan ins sg;;YES;м;о;р;д;а;к;S; јƒ–;S m inan ins sg
+9965;4;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+9966;5;Ќу;Ќ”;INTJ;;YES;у;н;;;;;INTJ;Ќ”;PART
+9967;6;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+9968;7;конечно; ќЌ≈„Ќќ;PARENTH;;YES;о;н;ч;е;н;о;PARENTH; ќЌ≈„Ќќ;ADV -
+9969;8;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+9970;;;;;;YES;;;;;;;;;
+9971;1;Ќ;Ќ;INIT abbr;;YES;н;;;;;;INIT;Ќ;S - - nonflex nonflex
+9972;2;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+9973;;;;;;YES;;;;;;;;;
+9974;1;ћ.;ћ.;INIT abbr;;YES;;м;;;;;INIT;ћ.;S - - nonflex nonflex
+9975;2;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+9976;3;“ы;“џ;S-PRO sg 2p - nom;;YES;ы;т;;;;;S-PRO;“џ;SPRO sg 2p - nom
+9977;4;это;Ё“ќ;S-PRO inan n sg;;YES;о;т;э;;;;INTJ;Ё“ќ;S n - acc sg
+9978;5;<;<;PUNC;;YES;;;;;;;PUNC;<;PUNC
+9979;6;distinct;DISTINCT;NONLEX;;YES;;;;;;;NONLEX;DISTINCT;NONLEX
+9980;7;form;FORM;NONLEX;;YES;;;;;;;NONLEX;FORM;NONLEX
+9981;8;=;=;PUNC;;YES;;;;;;;PUNC;=;PUNC
+9982;9;"	";_;;;YES;;;;;;;;_;10
+9983;10;чЄ;„≈;S-PRO inan n sg;distort;YES;Є;ч;;;;;S-PRO;„≈;S n inan nonflex nonflex
+9984;11;"	";_;;;YES;;;;;;;;_;12
+9985;12;>;>;PUNC;;YES;;;;;;;PUNC;>;PUNC
+9986;13;что;„“ќ;S-PRO inan n sg;;YES;о;т;ч;;;;S-PRO;„“ќ;ADV -
+9987;14;<;<;PUNC;;YES;;;;;;;PUNC;<;PUNC
+9988;15;/;/;PUNC;;YES;;;;;;;PUNC;/;PUNC
+9989;16;distinct;DISTINCT;NONLEX;;YES;;;;;;;NONLEX;DISTINCT;NONLEX
+9990;17;>;>;PUNC;;YES;;;;;;;PUNC;>;PUNC
+9991;18;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+9992;19;не;Ќ≈;PART;;YES;е;н;;;;;PART;Ќ≈;PART
+9993;20;записываешь;«јѕ»—џ¬ј“№;V ipf praes sg indic - 2p;;YES;ь;ш;е;а;в;ы;V;«јѕ»—џ¬ј“№;V ipf praes sg indic - 2p
+9994;21;уже;”∆≈;ADV -;;YES;е;ж;у;;;;ADV;”∆≈;ADV -
+9995;22;?;?;SENT;;YES;;;;;;;SENT;?;SENT
+9996;;;;;;YES;;;;;;;;;
+9997;1;√олос;√ќЋќ—;S m inan nom sg;;YES;с;о;л;о;г;;S;√ќЋќ—;S m inan nom sg
+9998;2;за;«ј;PR;;YES;а;з;;;;;PR;«ј;PR
+9999;3;кадром; јƒ–;S m inan ins sg;;YES;м;о;р;д;а;к;S; јƒ–;S m inan ins sg
+10000;4;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+10001;5;Ќет;Ќ≈“;PART;;YES;т;е;н;;;;PART;Ќ≈“;PART
+10002;6;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10003;7;записываю;«јѕ»—џ¬ј“№;V ipf praes sg indic - 1p;;YES;ю;а;в;ы;с;и;V;«јѕ»—џ¬ј“№;V ipf praes sg indic - 1p
+10004;8;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10005;;;;;;YES;;;;;;;;;
+10006;1;Ќ;Ќ;INIT abbr;;YES;н;;;;;;INIT;Ќ;S - - nonflex nonflex
+10007;2;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10008;;;;;;YES;;;;;;;;;
+10009;1;ћ.;ћ.;INIT abbr;;YES;;м;;;;;INIT;ћ.;S - - nonflex nonflex
+10010;2;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+10011;3;Ќу;Ќ”;INTJ;;YES;у;н;;;;;INTJ;Ќ”;PART
+10012;4;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10013;5;подожди;ѕќƒќ∆ƒј“№;V pf - sg imper - 2p;;YES;и;д;ж;о;д;о;V;ѕќƒќ∆ƒј“№;V pf - sg imper - 2p
+10014;6;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10015;;;;;;YES;;;;;;;;;
+10016;1;ѕосмотри;ѕќ—ћќ“–≈“№;V pf - sg imper - 2p;;YES;и;р;т;о;м;с;V;ѕќ—ћќ“–≈“№;V pf - sg imper - 2p
+10017;2;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10018;3;нормально;Ќќ–ћјЋ№Ќќ;ADV -;;YES;о;н;ь;л;а;м;ADV;Ќќ–ћјЋ№Ќќ;ADV -
+10019;4;получилось;ѕќЋ”„»“№—я;V pf praet sg indic n -;;YES;ь;с;о;л;и;ч;V;ѕќЋ”„»“№—я;V pf praet sg indic n -
+10020;5;?;?;SENT;;YES;;;;;;;SENT;?;SENT
+10021;;;;;;YES;;;;;;;;;
+10022;1;√олос;√ќЋќ—;S m inan nom sg;;YES;с;о;л;о;г;;S;√ќЋќ—;S m inan nom sg
+10023;2;за;«ј;PR;;YES;а;з;;;;;PR;«ј;PR
+10024;3;кадром; јƒ–;S m inan ins sg;;YES;м;о;р;д;а;к;S; јƒ–;S m inan ins sg
+10025;4;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+10026;5;ƒа;ƒј;PART;;YES;а;д;;;;;PART;ƒј;PART
+10027;6;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10028;;;;;;YES;;;;;;;;;
+10029;1;Ќ;Ќ;INIT abbr;;YES;н;;;;;;INIT;Ќ;S - - nonflex nonflex
+10030;2;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10031;;;;;;YES;;;;;;;;;
+10032;1;ћ.;ћ.;INIT abbr;;YES;;м;;;;;INIT;ћ.;S - - nonflex nonflex
+10033;2;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+10034;3;Ќу-ка;Ќ”- ј;INTJ;;YES;а;к;;у;н;;INTJ;Ќ”- ј;INTJ
+10035;4;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10036;5;<;<;PUNC;;YES;;;;;;;PUNC;<;PUNC
+10037;6;distinct;DISTINCT;NONLEX;;YES;;;;;;;NONLEX;DISTINCT;NONLEX
+10038;7;form;FORM;NONLEX;;YES;;;;;;;NONLEX;FORM;NONLEX
+10039;8;=;=;PUNC;;YES;;;;;;;PUNC;=;PUNC
+10040;9;"	";_;;;YES;;;;;;;;_;10
+10041;10;ничЄ;Ќ»„®;S-PRO inan n sg;distort;YES;Є;ч;и;н;;;S-PRO;Ќ»„;S m inan loc sg
+10042;11;"	";_;;;YES;;;;;;;;_;10
+10043;12;>;>;PUNC;;YES;;;;;;;PUNC;>;PUNC
+10044;13;ничего;Ќ»„≈√ќ;S-PRO inan n sg;;YES;о;г;е;ч;и;н;S-PRO;Ќ»„≈√ќ;ADV -
+10045;14;<;<;PUNC;;YES;;;;;;;PUNC;<;PUNC
+10046;15;/;/;PUNC;;YES;;;;;;;PUNC;/;PUNC
+10047;16;distinct;DISTINCT;NONLEX;;YES;;;;;;;NONLEX;DISTINCT;NONLEX
+10048;17;>;>;PUNC;;YES;;;;;;;PUNC;>;PUNC
+10049;18;€;я;S-PRO sg 1p - nom;;YES;€;;;;;;S-PRO;я;SPRO sg 1p - nom
+10050;19;там;“јћ;ADV -;;YES;м;а;т;;;;ADV;“јћ;ADV -
+10051;20;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10052;21;весЄленька€;¬≈—≈Ћ≈Ќ№ »…;A - nom sg plen f -;;YES;€;а;к;ь;н;е;A;¬≈—≈Ћ≈Ќ№ »…;A - nom sg plen f -
+10053;22;?;?;SENT;;YES;;;;;;;SENT;?;SENT
+10054;;;;;;YES;;;;;;;;;
+10055;1;√олос;√ќЋќ—;S m inan nom sg;;YES;с;о;л;о;г;;S;√ќЋќ—;S m inan nom sg
+10056;2;за;«ј;PR;;YES;а;з;;;;;PR;«ј;PR
+10057;3;кадром; јƒ–;S m inan ins sg;;YES;м;о;р;д;а;к;S; јƒ–;S m inan ins sg
+10058;4;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+10059;5;ƒа;ƒј;PART;;YES;а;д;;;;;PART;ƒј;CONJ
+10060;6;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10061;7;хорошенька€;’ќ–ќЎ≈Ќ№ »…;A - nom sg plen f -;;YES;€;а;к;ь;н;е;A;’ќ–ќЎ≈Ќ№ »…;A - nom sg plen f -
+10062;8;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10063;;;;;;YES;;;;;;;;;
+10064;1;Ќ;Ќ;INIT abbr;;YES;н;;;;;;INIT;Ќ;S - - nonflex nonflex
+10065;2;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10066;;;;;;YES;;;;;;;;;
+10067;1;ћ.;ћ.;INIT abbr;;YES;;м;;;;;INIT;ћ.;S - - nonflex nonflex
+10068;2;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+10069;3;’орошенька€;’ќ–ќЎ≈Ќ№ »…;A - nom sg plen f -;;YES;€;а;к;ь;н;е;A;’ќ–ќЎ≈Ќ№ »…;A - nom sg plen f -
+10070;4;?;?;SENT;;YES;;;;;;;SENT;?;SENT
+10071;;;;;;YES;;;;;;;;;
+10072;1;√олос;√ќЋќ—;S m inan nom sg;;YES;с;о;л;о;г;;S;√ќЋќ—;S m inan nom sg
+10073;2;за;«ј;PR;;YES;а;з;;;;;PR;«ј;PR
+10074;3;кадром; јƒ–;S m inan ins sg;;YES;м;о;р;д;а;к;S; јƒ–;S m inan ins sg
+10075;4;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+10076;5;ƒа;ƒј;PART;;YES;а;д;;;;;PART;ƒј;PART
+10077;6;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10078;;;;;;YES;;;;;;;;;
+10079;1;Ќ;Ќ;INIT abbr;;YES;н;;;;;;INIT;Ќ;S - - nonflex nonflex
+10080;2;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10081;;;;;;YES;;;;;;;;;
+10082;1;ћ.;ћ.;INIT abbr;;YES;;м;;;;;INIT;ћ.;S - - nonflex nonflex
+10083;2;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+10084;3;Ќу;Ќ”;INTJ;;YES;у;н;;;;;INTJ;Ќ”;PART
+10085;4;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10086;5;всЄ;¬—≈;S-PRO inan n sg nom;;YES;Є;с;в;;;;S-PRO;¬—≈;S n - nom sg
+10087;6;равно;–ј¬Ќџ…;A - n sg brev n -;;YES;о;н;в;а;р;;A;–ј¬Ќџ…;A - - sg brev n -
+10088;7;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10089;;;;;;YES;;;;;;;;;
+10090;1;ѕричепуренна€;ѕ–»„≈ѕ”–≈ЌЌџ…;A - nom sg plen f -;;YES;€;а;н;н;е;р;A;ѕ–»„≈ѕ”–≈ЌЌџ…;A - nom sg plen f -
+10091;2;?;?;SENT;;YES;;;;;;;SENT;?;SENT
+10092;;;;;;YES;;;;;;;;;
+10093;1;√олос;√ќЋќ—;S m inan nom sg;;YES;с;о;л;о;г;;S;√ќЋќ—;S m inan nom sg
+10094;2;за;«ј;PR;;YES;а;з;;;;;PR;«ј;PR
+10095;3;кадром; јƒ–;S m inan ins sg;;YES;м;о;р;д;а;к;S; јƒ–;S m inan ins sg
+10096;4;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+10097;5;ƒа;ƒј;PART;;YES;а;д;;;;;PART;ƒј;PART
+10098;6;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10099;;;;;;YES;;;;;;;;;
+10100;1;Ќ;Ќ;INIT abbr;;YES;н;;;;;;INIT;Ќ;S - - nonflex nonflex
+10101;2;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10102;;;;;;YES;;;;;;;;;
+10103;1;ћ.;ћ.;INIT abbr;;YES;;м;;;;;INIT;ћ.;S - - nonflex nonflex
+10104;2;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+10105;3;Ќу;Ќ”;INTJ;;YES;у;н;;;;;INTJ;Ќ”;PART
+10106;4;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10107;5;хорошо;’ќ–ќЎќ;ADV -;;YES;о;ш;о;р;о;х;ADV;’ќ–ќЎќ;ADV -
+10108;6;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10109;;;;;;YES;;;;;;;;;
+10110;1;“ак;“ј ;ADV -;;YES;к;а;т;;;;ADV;“ј ;ADV -
+10111;2;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10112;3;ну;Ќ”;INTJ;;YES;у;н;;;;;INTJ;Ќ”;PART
+10113;4;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10114;;;;;;YES;;;;;;;;;
+10115;1;√олос;√ќЋќ—;S m inan nom sg;;YES;с;о;л;о;г;;S;√ќЋќ—;S m inan nom sg
+10116;2;за;«ј;PR;;YES;а;з;;;;;PR;«ј;PR
+10117;3;кадром; јƒ–;S m inan ins sg;;YES;м;о;р;д;а;к;S; јƒ–;S m inan ins sg
+10118;4;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+10119;5;ƒавай;ƒј¬ј“№;V ipf - sg imper - 2p;;YES;й;а;в;а;д;;V;ƒј¬ј“№;V ipf - sg imper - 2p
+10120;6;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10121;7;нажимай;Ќј∆»ћј“№;V ipf - sg imper - 2p;;YES;й;а;м;и;ж;а;V;Ќј∆»ћј“№;V ipf - sg imper - 2p
+10122;8;на;Ќј;PR;;YES;а;н;;;;;PR;Ќј;PR
+10123;9;мышку;ћџЎ ј;S f inan acc sg;;YES;у;к;ш;ы;м;;S;ћџЎ ј;S f inan acc sg
+10124;10;и;»;CONJ;;YES;и;;;;;;CONJ;»;CONJ
+10125;11;комментируй; ќћћ≈Ќ“»–ќ¬ј“№;V ipf - sg imper - 2p;;YES;й;у;р;и;т;н;V; ќћћ≈Ќ“»–ќ¬ј“№;V ipf - sg imper - 2p
+10126;12;видео;¬»ƒ≈ќ;S n inan nonflex nonflex;;YES;о;е;д;и;в;;S;¬»ƒ≈ќ;S n inan nonflex nonflex
+10127;13;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10128;14;пожалуйста;ѕќ∆јЋ”…—“ј;PART;;YES;а;т;с;й;у;л;PART;ѕќ∆јЋ”…—“ј;PART
+10129;15;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10130;;;;;;YES;;;;;;;;;
+10131;1;Ќ;Ќ;INIT abbr;;YES;н;;;;;;INIT;Ќ;S - - nonflex nonflex
+10132;2;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10133;;;;;;YES;;;;;;;;;
+10134;1;ћ.;ћ.;INIT abbr;;YES;;м;;;;;INIT;ћ.;S - - nonflex nonflex
+10135;2;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+10136;3;<;<;PUNC;;YES;;;;;;;PUNC;<;PUNC
+10137;4;noindex;NOINDEX;NONLEX;;YES;;;;;;;NONLEX;NOINDEX;NONLEX
+10138;5;>;>;PUNC;;YES;;;;;;;PUNC;>;PUNC
+10139;6;[;[;PUNC;;YES;;;;;;;PUNC;[;PUNC
+10140;7;нрзб;Ќ–«Ѕ;NONLEX;distort;YES;б;з;р;н;;;NONLEX;Ќ–«Ѕ;NONLEX
+10141;8;];];PUNC;;YES;;;;;;;PUNC;];PUNC
+10142;9;<;<;PUNC;;YES;;;;;;;PUNC;<;PUNC
+10143;10;/;/;PUNC;;YES;;;;;;;PUNC;/;PUNC
+10144;11;noindex;NOINDEX;NONLEX;;YES;;;;;;;NONLEX;NOINDEX;NONLEX
+10145;12;>;>;PUNC;;YES;;;;;;;PUNC;>;PUNC
+10146;13;“ы;“џ;S-PRO sg 2p - nom;;YES;ы;т;;;;;S-PRO;“џ;SPRO sg 2p - nom
+10147;14;потом;ѕќ“ќћ;ADV -;;YES;м;о;т;о;п;;ADV;ѕќ“ќћ;ADV -
+10148;15;можешь;ћќ„№;V ipf praes sg indic - 2p;;YES;ь;ш;е;ж;о;м;V;ћќ„№;V ipf praes sg indic - 2p
+10149;16;это;Ё“ќ;S-PRO inan n sg acc;;YES;о;т;э;;;;S-PRO;Ё“ќ;S n - acc sg
+10150;17;стереть;—“≈–≈“№;V pf - - inf - -;;YES;ь;т;е;р;е;т;V;—“≈–≈“№;V pf - - inf - -
+10151;18;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10152;19;хорошо;’ќ–ќЎќ;ADV -;;YES;о;ш;о;р;о;х;ADV;’ќ–ќЎќ;ADV -
+10153;20;?;?;SENT;;YES;;;;;;;SENT;?;SENT
+10154;;;;;;YES;;;;;;;;;
+10155;1;√олос;√ќЋќ—;S m inan nom sg;;YES;с;о;л;о;г;;S;√ќЋќ—;S m inan nom sg
+10156;2;за;«ј;PR;;YES;а;з;;;;;PR;«ј;PR
+10157;3;кадром; јƒ–;S m inan ins sg;;YES;м;о;р;д;а;к;S; јƒ–;S m inan ins sg
+10158;4;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+10159;5; онечно; ќЌ≈„Ќќ;PARENTH;;YES;о;н;ч;е;н;о;PARENTH; ќЌ≈„Ќќ;ADV -
+10160;6;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10161;7;да;ƒј;PART;;YES;а;д;;;;;PART;ƒј;PART
+10162;8;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10163;;;;;;YES;;;;;;;;;
+10164;1;Ќ;Ќ;INIT abbr;;YES;н;;;;;;INIT;Ќ;S - - nonflex nonflex
+10165;2;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10166;;;;;;YES;;;;;;;;;
+10167;1;ћ.;ћ.;INIT abbr;;YES;;м;;;;;INIT;ћ.;S - - nonflex nonflex
+10168;2;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+10169;3;¬сЄ;¬—≈;PART;;YES;Є;с;в;;;;PART;¬—≈;ADV -
+10170;4;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10171;5;давай;ƒј¬ј“№;V ipf - sg imper - 2p;;YES;й;а;в;а;д;;V;ƒј¬ј“№;V ipf - sg imper - 2p
+10172;6;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10173;;;;;;YES;;;;;;;;;
+10174;1;Ќичего;Ќ»„≈√ќ;ADV -;;YES;о;г;е;ч;и;н;ADV;Ќ»„≈√ќ;ADV -
+10175;2;себе;—≈Ѕ≈;PART ;;YES;е;б;е;с;;;PART;—≈Ѕ≈;PART
+10176;3;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10177;;;;;;YES;;;;;;;;;
+10178;1;Ёто;Ё“ќ;S-PRO n inan nom sg;;YES;о;т;э;;;;S-PRO;Ё“ќ;S n - nom sg
+10179;2;кто; “ќ;S-PRO m anim nom sg;;YES;о;т;к;;;;S-PRO; “ќ;S m - nom sg
+10180;3;ж;∆;PART;;YES;ж;;;;;;PART;∆;PART
+10181;4;там;“јћ;ADV -;;YES;м;а;т;;;;ADV;“јћ;ADV -
+10182;5;на;Ќј;PR;;YES;а;н;;;;;PR;Ќј;PR
+10183;6;него;ќЌ;S-PRO sg 3p m acc;;YES;о;г;е;н;;;S-PRO;ќЌ;SPRO sg 3p m acc
+10184;7;?;?;SENT;;YES;;;;;;;SENT;?;SENT
+10185;;;;;;YES;;;;;;;;;
+10186;1;<;<;PUNC;;YES;;;;;;;PUNC;<;PUNC
+10187;2;distinct;DISTINCT;NONLEX;;YES;;;;;;;NONLEX;DISTINCT;NONLEX
+10188;3;form;FORM;NONLEX;;YES;;;;;;;NONLEX;FORM;NONLEX
+10189;4;=;=;PUNC;;YES;;;;;;;PUNC;=;PUNC
+10190;5;"	";_;;;YES;;;;;;;;_;6
+10191;6;ќ;ќ;INTJ;distort;YES;о;;;;;;INTJ;ќ;INTJ
+10192;7;"	";_;;;YES;;;;;;;;_;6
+10193;8;>;>;PUNC;;YES;;;;;;;PUNC;>;PUNC
+10194;9;¬от;¬ќ“;PART;;YES;т;о;в;;;;PART;¬ќ“;PART
+10195;10;<;<;PUNC;;YES;;;;;;;PUNC;<;PUNC
+10196;11;/;/;PUNC;;YES;;;;;;;PUNC;/;PUNC
+10197;12;distinct;DISTINCT;NONLEX;;YES;;;;;;;NONLEX;DISTINCT;NONLEX
+10198;13;>;>;PUNC;;YES;;;;;;;PUNC;>;PUNC
+10199;14;^;^;PUNC;;YES;;;;;;;PUNC;^;PUNC
+10200;15;молодец;ћќЋќƒ≈÷;S m anim nom sg;;YES;ц;е;д;о;л;о;S;ћќЋќƒ≈÷;S m anim nom sg
+10201;16;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10202;17;правильно;ѕ–ј¬»Ћ№Ќќ;ADV -;;YES;о;н;ь;л;и;в;ADV;ѕ–ј¬»Ћ№Ќќ;ADV -
+10203;18;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10204;19;поможет;ѕќћќ„№;V pf fut sg indic - 3p;;YES;т;е;ж;о;м;о;V;ѕќћќ„№;V pf fut sg indic - 3p
+10205;20;растению;–ј—“≈Ќ»≈;S n inan dat sg;;YES;ю;и;н;е;т;с;S;–ј—“≈Ќ»≈;S n inan dat sg
+10206;21;полить;ѕќЋ»“№;V pf - - inf - -;;YES;ь;т;и;л;о;п;V;ѕќЋ»“№;V pf - - inf - -
+10207;22;его;ќЌ;S-PRO sg 3p m acc;;YES;о;г;е;;;;S-PRO;ќЌ;SPRO sg 3p m acc
+10208;23;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10209;;;;;;YES;;;;;;;;;
+10210;1;“ак;“ј ;ADV -;;YES;к;а;т;;;;ADV;“ј ;ADV -
+10211;2;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10212;3;а;ј;CONJ;;YES;а;;;;;;CONJ;ј;CONJ
+10213;4;это;Ё“ќ;S-PRO n inan nom sg;;YES;о;т;э;;;;S-PRO;Ё“ќ;S n - nom sg
+10214;5;кто; “ќ;S-PRO m anim nom sg;;YES;о;т;к;;;;S-PRO; “ќ;S m anim nom sg
+10215;6;?;?;SENT;;YES;;;;;;;SENT;?;SENT
+10216;;;;;;YES;;;;;;;;;
+10217;1;ќо;ќ;INTJ;distort;YES;о;о;;;;;INTJ;ќќ;NONLEX
+10218;2;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10219;3;он;ќЌ;S-PRO sg 3p m nom;;YES;н;о;;;;;S-PRO;ќЌ;SPRO sg 3p m nom
+10220;4;помогает;ѕќћќ√ј“№;V ipf praes sg indic 3p;;YES;т;е;а;г;о;м;V;ѕќћќ√ј“№;V ipf praes sg indic - 3p
+10221;5;и;»;CONJ;;YES;и;;;;;;CONJ;»;CONJ
+10222;6;женщине;∆≈Ќў»Ќј;S f anim dat sg;;YES;е;н;и;щ;н;е;S;∆≈Ќў»Ќј;S f anim dat sg
+10223;7;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10224;;;;;;YES;;;;;;;;;
+10225;1;Ќужно;Ќ”∆Ќќ;PRAEDIC ;;YES;о;н;ж;у;н;;PRAEDIC;Ќ”∆Ќќ;ADV -
+10226;2;накормить;Ќј ќ–ћ»“№;V pf - - inf - -;;YES;ь;т;и;м;р;о;V;Ќј ќ–ћ»“№;V pf - - inf - -
+10227;3;собаку;—ќЅј ј;S f anim acc sg;;YES;у;к;а;б;о;с;S;—ќЅј ј;S f anim acc sg
+10228;4;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10229;;;;;;YES;;;;;;;;;
+10230;1;ѕочему-то;ѕќ„≈ћ”-“ќ;ADV -;;YES;о;т;;у;м;е;ADV;ѕќ„≈ћ”-“ќ;ADV -
+10231;2;собака;—ќЅј ј;S f anim nom sg;;YES;а;к;а;б;о;с;S;—ќЅј ј;S f anim nom sg
+10232;3;даЄт;ƒј¬ј“№;V ipf praes sg indic 3p;;YES;т;Є;а;д;;;V;ƒј¬ј“№;V ipf praes sg indic - 3p
+10233;4;левую;Ћ≈¬џ…;A - acc sg plen f -;;YES;ю;у;в;е;л;;A;Ћ≈¬џ…;A - acc sg plen f -
+10234;5;лапу;Ћјѕј;S f inan acc sg;;YES;у;п;а;л;;;S;Ћјѕј;S f inan acc sg
+10235;6;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10236;7;а;ј;CONJ;;YES;а;;;;;;CONJ;ј;CONJ
+10237;8;не;Ќ≈;PART;;YES;е;н;;;;;PART;Ќ≈;PART
+10238;9;правую;ѕ–ј¬џ…;A - acc sg plen f -;;YES;ю;у;в;а;р;п;A;ѕ–ј¬џ…;A - acc sg plen f -
+10239;10;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10240;11;она;ќЌј;S-PRO sg 3p f nom;;YES;а;н;о;;;;S-PRO;ќЌј;SPRO sg 3p f nom
+10241;12;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10242;13;видимо;¬»ƒ»ћќ;PARENTH;;YES;о;м;и;д;и;в;PARENTH;¬»ƒ»ћќ;ADV -
+10243;14;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10244;15;левша;Ћ≈¬Ўј;S f anim nom sg;;YES;а;ш;в;е;л;;S;Ћ≈¬Ўј;S - anim nom sg
+10245;16;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10246;;;;;;YES;;;;;;;;;
+10247;1;Ќ;Ќ;INIT abbr;;YES;н;;;;;;INIT;Ќ;S - - nonflex nonflex
+10248;2;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10249;;;;;;YES;;;;;;;;;
+10250;1;ћ.;ћ.;INIT abbr;;YES;;м;;;;;INIT;ћ.;S - - nonflex nonflex
+10251;2;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+10252;3;ј;ј;CONJ;;YES;а;;;;;;CONJ;ј;S - - nonflex nonflex
+10253;4;это;Ё“ќ;S-PRO n inan nom sg;;YES;о;т;э;;;;S-PRO;Ё“ќ;S n - nom sg
+10254;5;кто; “ќ;S-PRO m anim nom sg;;YES;о;т;к;;;;S-PRO; “ќ;S m - nom sg
+10255;6;?;?;SENT;;YES;;;;;;;SENT;?;SENT
+10256;;;;;;YES;;;;;;;;;
+10257;1;ј;ј;CONJ;;YES;а;;;;;;CONJ;ј;CONJ
+10258;2;что;„“ќ;S-PRO n inan nom sg;;YES;о;т;ч;;;;S-PRO;„“ќ;CONJ
+10259;3;это;Ё“ќ;S-PRO n inan nom sg;;YES;о;т;э;;;;S-PRO;Ё“ќ;S n - nom sg
+10260;4;вообще;¬ќќЅў≈;ADV -;;YES;е;щ;б;о;о;в;ADV;¬ќќЅў≈;ADV -
+10261;5;за;«ј;PR;;YES;а;з;;;;;PR;«ј;PR
+10262;6;страна;—“–јЌј;S f inan nom sg;;YES;а;н;а;р;т;с;S;—“–јЌј;S f inan nom sg
+10263;7;?;?;SENT;;YES;;;;;;;SENT;?;SENT
+10264;;;;;;YES;;;;;;;;;
+10265;1;“ак;“ј ;ADV -;;YES;к;а;т;;;;ADV;“ј ;ADV -
+10266;2;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10267;3;нужно;Ќ”∆Ќќ;PRAEDIC;;YES;о;н;ж;у;н;;PRAEDIC;Ќ”∆Ќќ;ADV -
+10268;4;помочь;ѕќћќ„№;V pf - - inf - -;;YES;ь;ч;о;м;о;п;V;ѕќћќ„№;S f inan acc sg
+10269;5;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10270;;;;;;YES;;;;;;;;;
+10271;1;ƒеньги;ƒ≈Ќ№√»;S - inan nom pl;;YES;и;г;ь;н;е;д;S;ƒ≈Ќ№√»;S - inan nom pl
+10272;2;большие;ЅќЋ№Ўќ…;A - nom pl plen - -;;YES;е;и;ш;ь;л;о;A;ЅќЋ№Ўќ…;A - nom pl plen - -
+10273;3;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10274;4;но;Ќќ;CONJ;;YES;о;н;;;;;CONJ;Ќќ;CONJ
+10275;5;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10276;6;видимо;¬»ƒ»ћќ;PARENTH;;YES;о;м;и;д;и;в;PARENTH;¬»ƒ»ћќ;ADV -
+10277;7;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10278;8;не;Ќ≈;PART;;YES;е;н;;;;;PART;Ќ≈;PART
+10279;9;жалеет;∆јЋ≈“№;V ipf praes sg indic - 3p;;YES;т;е;е;л;а;ж;V;∆јЋ≈“№;V ipf praes sg indic - 3p
+10280;10;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10281;;;;;;YES;;;;;;;;;
+10282;1;–ебЄнок;–≈Ѕ≈Ќќ ;S m anim nom sg;;YES;к;о;н;Є;б;е;S;–≈Ѕ≈Ќќ ;S m anim nom sg
+10283;2;-;-;PUNC;;YES;;;;;;;PUNC;-;PUNC
+10284;3;это;Ё“ќ;S-PRO n inan nom sg;;YES;о;т;э;;;;S-PRO;Ё“ќ;S n - nom sg
+10285;4;всегда;¬—≈√ƒј;ADV -;;YES;а;д;г;е;с;в;ADV;¬—≈√ƒј;ADV -
+10286;5;важнее;¬ј∆Ќџ…;A comp - - plen - -;;YES;е;е;н;ж;а;в;A;¬ј∆Ќџ…;A comp - - plen - -
+10287;6;взрослого;¬«–ќ—Ћџ…;S m anim gen sg;;YES;о;г;о;л;с;о;S;¬«–ќ—Ћџ…;S m anim gen sg
+10288;7;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10289;;;;;;YES;;;;;;;;;
+10290;1;ј;ј;CONJ;;YES;а;;;;;;CONJ;ј;CONJ
+10291;2;это;Ё“ќ;S-PRO n inan nom sg;;YES;о;т;э;;;;S-PRO;Ё“ќ;S n - nom sg
+10292;3;подарок;ѕќƒј–ќ ;S m inan nom sg;;YES;к;о;р;а;д;о;S;ѕќƒј–ќ ;S m inan nom sg
+10293;4;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10294;5;старой;—“ј–џ…;A - dat sg plen f -;;YES;й;о;р;а;т;с;A;—“ј–џ…;A - dat sg plen f -
+10295;6;женщине;∆≈Ќў»Ќј;S f anim dat sg;;YES;е;н;и;щ;н;е;S;∆≈Ќў»Ќј;S f anim dat sg
+10296;7;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10297;;;;;;YES;;;;;;;;;
+10298;1;ќй;ќ…;INTJ;;YES;й;о;;;;;INTJ;ќ…;INTJ
+10299;2;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10300;3;как; ј ;ADV -;;YES;к;а;к;;;;ADV; ј ;ADV -
+10301;4;при€тно;ѕ–»я“Ќќ;ADV -;;YES;о;н;т;€;и;р;ADV;ѕ–»я“Ќќ;ADV -
+10302;5;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10303;;;;;;YES;;;;;;;;;
+10304;1;÷веточек;÷¬≈“ќ„≈ ;S m inan nom sg;;YES;к;е;ч;о;т;е;S;÷¬≈“ќ„≈ ;S m inan nom sg
+10305;2;теперь;“≈ѕ≈–№;ADV -;;YES;ь;р;е;п;е;т;ADV;“≈ѕ≈–№;ADV -
+10306;3;не;Ќ≈;PART;;YES;е;н;;;;;PART;Ќ≈;PART
+10307;4;засохнет;«ј—ќ’Ќ”“№;V pf fut sg indic 3p;;YES;т;е;н;х;о;с;V;«ј—ќ’Ќ”“№;V pf fut sg indic - 3p
+10308;5;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10309;;;;;;YES;;;;;;;;;
+10310;1;"	";_;;;YES;;;;;;;;_;2
+10311;2; то; “ќ;S-PRO m anim nom sg;;YES;о;т;к;;;;S-PRO; “ќ;S m - nom sg
+10312;3;мне;я;S-PRO sg 1p - loc;;YES;е;н;м;;;;S-PRO;я;SPRO sg 1p - loc
+10313;4;поможет;ѕќћќ„№;V pf fut sg indic - 3p;;YES;т;е;ж;о;м;о;V;ѕќћќ„№;V pf fut sg indic - 3p
+10314;5;?;?;PUNC;;YES;;;;;;;PUNC;?;PUNC
+10315;6;"	";SENT;;;YES;;;;;;;;SENT;5
+10316;;;;;;YES;;;;;;;;;
+10317;1;-;-;PUNC;;YES;;;;;;;PUNC;-;PUNC
+10318;2;кричит; –»„ј“№;V ipf praes sg indic 3p;;YES;т;и;ч;и;р;к;V; –»„ј“№;V ipf praes sg indic - 3p
+10319;3;женщина;∆≈Ќў»Ќј;S f anim nom sg;;YES;а;н;и;щ;н;е;S;∆≈Ќў»Ќј;S f anim nom sg
+10320;4;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10321;;;;;;YES;;;;;;;;;
+10322;1;»;»;CONJ;;YES;и;;;;;;CONJ;»;CONJ
+10323;2;собака;—ќЅј ј;S f anim nom sg;;YES;а;к;а;б;о;с;S;—ќЅј ј;S f anim nom sg
+10324;3;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10325;;;;;;YES;;;;;;;;;
+10326;1;Ќ;Ќ;INIT abbr;;YES;н;;;;;;INIT;Ќ;S - - nonflex nonflex
+10327;2;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10328;;;;;;YES;;;;;;;;;
+10329;1;ћ.;ћ.;INIT abbr;;YES;;м;;;;;INIT;ћ.;S - - nonflex nonflex
+10330;2;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+10331;3;ј;ј;CONJ;;YES;а;;;;;;CONJ;ј;S - - nonflex nonflex
+10332;4;что;„“ќ;S-PRO n inan nom sg;;YES;о;т;ч;;;;CONJ;„“ќ;CONJ
+10333;5;этот;Ё“ќ“;A-PRO m anim nom sg;;YES;т;о;т;э;;;A-PRO;Ё“ќ“;A - nom sg plen m -
+10334;6;машет;ћј’ј“№;V ipf praes sg indic - 3p;;YES;т;е;ш;а;м;;V;ћј’ј“№;V ipf praes sg indic - 3p
+10335;7;головой;√ќЋќ¬ј;S f inan ins sg;;YES;й;о;в;о;л;о;S;√ќЋќ¬ј;S f inan ins sg
+10336;8;?;?;SENT;;YES;;;;;;;SENT;?;SENT
+10337;;;;;;YES;;;;;;;;;
+10338;1;„то;„“ќ;S-PRO n inan nom sg;;YES;о;т;ч;;;;S-PRO;„“ќ;S n - nom sg
+10339;2;ему;ќЌ;S-PRO sg 3p m dat;;YES;у;м;е;;;;S-PRO;ќЌ;SPRO sg 3p m dat
+10340;3;не;Ќ≈;PART;;YES;е;н;;;;;PART;Ќ≈;PART
+10341;4;понравилось;ѕќЌ–ј¬»“№—я;V pf praet sg indic n -;;YES;ь;с;о;л;и;в;V;ѕќЌ–ј¬»“№—я;V pf praet sg indic n -
+10342;5;?;?;SENT;;YES;;;;;;;SENT;?;SENT
+10343;;;;;;YES;;;;;;;;;
+10344;1;ћожет;ћќ„№;PARENTH ;слитно;YES;т;е;ж;о;м;;PARENTH;ћќ„№;V ipf praes sg indic - 3p
+10345;2;быть;Ѕџ“№;PARENTH;;YES;ь;т;ы;б;;;PARENTH;Ѕџ“№;V ipf - - inf - -
+10346;3;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10347;4;ему;ќЌ;SPRO sg 3p m dat;;YES;у;м;е;;;;SPRO;ќЌ;SPRO sg 3p m dat
+10348;5;завидно;«ј¬»ƒЌќ;ADV -;;YES;о;н;д;и;в;а;ADV;«ј¬»ƒЌќ;ADV -
+10349;6;?;?;SENT;;YES;;;;;;;SENT;?;SENT
+10350;;;;;;YES;;;;;;;;;
+10351;1;¬ы;¬џ;S-PRO pl 2p - nom;;YES;ы;в;;;;;S-PRO;¬џ;SPRO pl 2p - nom
+10352;2;посмотрите;ѕќ—ћќ“–≈“№;V pf pl imper - 2p;;YES;е;т;и;р;т;о;V;ѕќ—ћќ“–≈“№;V pf fut pl indic - 2p
+10353;3;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10354;4;какой; ј ќ…;A-PRO m sg nom;;YES;й;о;к;а;к;;A-PRO; ј ќ…;A - nom sg plen m -
+10355;5;воспитанный;¬ќ—ѕ»“јЌЌџ…;A - nom sg plen m -;;YES;й;ы;н;н;а;т;A;¬ќ—ѕ»“јЌЌџ…;A - nom sg plen m -
+10356;6;!;!;SENT;;YES;;;;;;;SENT;!;SENT
+10357;;;;;;YES;;;;;;;;;
+10358;1;”ступает;”—“”ѕј“№;V ipf praes sg indic - 3p;;YES;т;е;а;п;у;т;V;”—“”ѕј“№;V ipf praes sg indic - 3p
+10359;2;место;ћ≈—“ќ;S n inan acc sg;;YES;о;т;с;е;м;;S;ћ≈—“ќ;S n inan acc sg
+10360;3;в;¬;PR;;YES;в;;;;;;PR;¬;PR
+10361;4;транспорте;“–јЌ—ѕќ–“;S m inan loc2 sg;;YES;е;т;р;о;п;с;S;“–јЌ—ѕќ–“;S m inan loc sg
+10362;5;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10363;;;;;;YES;;;;;;;;;
+10364;1;Ѕабул€;ЅјЅ”Ћя;S f anim nom sg;;YES;€;л;у;б;а;б;S;ЅјЅ”Ћя;S m anim nom sg
+10365;2;удивл€етс€;”ƒ»¬Ћя“№—я;V ipf praes sg indic med 3p;;YES;€;с;т;е;€;л;V;”ƒ»¬Ћя“№—я;V ipf praes sg indic - 3p
+10366;3;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10367;4;видимо;¬»ƒ»ћќ;PARENTH;;YES;о;м;и;д;и;в;PARENTH;¬»ƒ»ћќ;ADV -
+10368;5;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10369;6;первый;ѕ≈–¬џ…;A-NUM - nom sg plen m -;;YES;й;ы;в;р;е;п;A-NUM;ѕ≈–¬џ…;A - nom sg plen m -
+10370;7;раз;–ј«;S m inan nom sg;;YES;з;а;р;;;;S;–ј«;S m inan acc sg
+10371;8;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10372;;;;;;YES;;;;;;;;;
+10373;1;ќй;ќ…;INTJ;;YES;й;о;;;;;INTJ;ќ…;INTJ
+10374;2;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10375;3;у;”;PR;;YES;у;;;;;;PR;”;PR
+10376;4;него;ќЌ;S-PRO sg 3p m acc;;YES;о;г;е;н;;;S-PRO;ќЌ;SPRO sg 3p m acc
+10377;5;ещЄ;≈ў≈;ADV -;;YES;Є;щ;е;;;;ADV;≈ў≈;ADV -
+10378;6;и;»;CONJ;;YES;и;;;;;;CONJ;»;CONJ
+10379;7;птицы;ѕ“»÷ј;S f anim nom pl;;YES;ы;ц;и;т;п;;S;ѕ“»÷ј;S f anim nom pl
+10380;8;есть;Ѕџ“№;V ipf praes sg indic - 3p;;YES;ь;т;с;е;;;V;Ѕџ“№;V ipf praes sg indic - 3p
+10381;9;в;¬;PR;;YES;в;;;;;;PR;¬;PR
+10382;10;доме;ƒќћ;S m inan loc2 sg;;YES;е;м;о;д;;;S;ƒќћ;S m inan loc sg
+10383;11;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10384;;;;;;YES;;;;;;;;;
+10385;1;Ѕотаник;Ѕќ“јЌ» ;S m anim nom sg;;YES;к;и;н;а;т;о;S;Ѕќ“јЌ» ;S m anim nom sg
+10386;2;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10387;3;любит;ЋёЅ»“№;V ipf praes sg indic - 3p;;YES;т;и;б;ю;л;;V;ЋёЅ»“№;V ipf praes sg indic - 3p
+10388;4;цветы;÷¬≈“ќ ;S m inan acc pl;;YES;ы;т;е;в;ц;;S;÷¬≈“ќ ;S m inan acc pl
+10389;5;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10390;;;;;;YES;;;;;;;;;
+10391;1;Ќ;Ќ;INIT abbr;;YES;н;;;;;;INIT;Ќ;S - - nonflex nonflex
+10392;2;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10393;;;;;;YES;;;;;;;;;
+10394;1;ћ.;ћ.;INIT abbr;;YES;;м;;;;;INIT;ћ.;S - - nonflex nonflex
+10395;2;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+10396;3;ƒо;ƒќ;PR;;YES;о;д;;;;;PR;ƒќ;PR
+10397;4;каких; ј ќ…;A-PRO - gen pl plen - -;;YES;х;и;к;а;к;;A-PRO; ј ќ…;A - loc pl plen - -
+10398;5;же;∆≈;PART;;YES;е;ж;;;;;PART;∆≈;PART
+10399;6;пор;ѕќ–ј;S f inan gen pl;;YES;р;о;п;;;;S;ѕќ–ј;S f inan gen pl
+10400;7;будет;Ѕџ“№;V ipf fut sg indic - 3p;;YES;т;е;д;у;б;;V;Ѕџ“№;V ipf praes sg indic - 3p
+10401;8;вода;¬ќƒј;S f inan nom sg;;YES;а;д;о;в;;;S;¬ќƒј;S f inan nom sg
+10402;9;литьс€;Ћ»“№—я;V ipf - - inf med -;;YES;€;с;ь;т;и;л;V;Ћ»“№—я;V ipf - - inf - -
+10403;10;?;?;SENT;;YES;;;;;;;SENT;?;SENT
+10404;;;;;;YES;;;;;;;;;
+10405;1;Ќу;Ќ”;INTJ;;YES;у;н;;;;;INTJ;Ќ”;PART
+10406;2;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10407;3;он;ќЌ;S-PRO sg 3p m nom;;YES;н;о;;;;;S-PRO;ќЌ;SPRO sg 3p m nom
+10408;4;может;ћќ„№;V ipf praes sg indic - 3p;;YES;т;е;ж;о;м;;V;ћќ„№;V ipf praes sg indic - 3p
+10409;5;помочь;ѕќћќ„№;V pf - - inf - -;;YES;ь;ч;о;м;о;п;V;ѕќћќ„№;S f inan acc sg
+10410;6;и;»;CONJ;;YES;и;;;;;;CONJ;»;CONJ
+10411;7;поторговать;ѕќ“ќ–√ќ¬ј“№;V pf - - inf - -;;YES;ь;т;а;в;о;г;V;ѕќ“ќ–√ќ¬ј“№;V pf - - inf - -
+10412;8;этой;Ё“ќ“;A-PRO - dat sg plen f -;;YES;й;о;т;э;;;A-PRO;Ё“ќ“;A - ins sg plen f -
+10413;9;женщине;∆≈Ќў»Ќј;S f anim dat sg;;YES;е;н;и;щ;н;е;S;∆≈Ќў»Ќј;S f anim dat sg
+10414;10;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10415;;;;;;YES;;;;;;;;;
+10416;1;—обака;—ќЅј ј;S f anim nom sg;;YES;а;к;а;б;о;с;S;—ќЅј ј;S f anim nom sg
+10417;2;довольна;ƒќ¬ќЋ№Ќџ…;A - - sg brev f -;;YES;а;н;ь;л;о;в;A;ƒќ¬ќЋ№Ќџ…;A - - sg brev f -
+10418;3;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10419;;;;;;YES;;;;;;;;;
+10420;1;ѕошла;ѕќ…“»;V pf praet sg indic f -;;YES;а;л;ш;о;п;;V;ѕќ…“»;V pf praet sg indic f -
+10421;2;за;«ј;PR;;YES;а;з;;;;;PR;«ј;PR
+10422;3;ним;ќЌ;S-PRO sg 3p m ins;;YES;м;и;н;;;;S-PRO;ќЌ;SPRO sg 3p m ins
+10423;4;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10424;5;станет;—“ј“№;V pf fut sg indic - 3p;;YES;т;е;н;а;т;с;V;—“ј“№;V pf fut sg indic - 3p
+10425;6;преданным;ѕ–≈ƒјЌЌџ…;A - ins sg plen m -;;YES;м;ы;н;н;а;д;A;ѕ–≈ƒјЌЌџ…;A - ins sg plen m -
+10426;7;другом;ƒ–”√;S m anim ins sg;;YES;м;о;г;у;р;д;S;ƒ–”√;S m anim ins sg
+10427;8;ей...;ќЌј...;S-PRO sg 3p f dat;;YES;;;;й;е;;S-PRO;ќЌј...;SPRO sg 3p f dat
+10428;9;ему;ќЌ;S-PRO sg 3p m dat;;YES;у;м;е;;;;S-PRO;ќЌ;SPRO sg 3p m dat
+10429;10;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10430;;;;;;YES;;;;;;;;;
+10431;1;ј;ј;CONJ;;YES;а;;;;;;CONJ;ј;CONJ
+10432;2;это;Ё“ќ;S-PRO n inan nom sg;;YES;о;т;э;;;;S-PRO;Ё“ќ;S n - nom sg
+10433;3;что;„“ќ;S-PRO n inan nom sg;;YES;о;т;ч;;;;S-PRO;„“ќ;CONJ
+10434;4;такое;“ј ќ…;A-PRO n sg acc;;YES;е;о;к;а;т;;A-PRO;“ј ќ…;A - nom sg plen n -
+10435;5;?;?;SENT;;YES;;;;;;;SENT;?;SENT
+10436;;;;;;YES;;;;;;;;;
+10437;1;√де;√ƒ≈;ADV -;;YES;е;д;г;;;;ADV;√ƒ≈;ADV -
+10438;2;ребЄнок;–≈Ѕ≈Ќќ ;S m anim nom sg;;YES;к;о;н;Є;б;е;S;–≈Ѕ≈Ќќ ;S m anim nom sg
+10439;3;?;?;SENT;;YES;;;;;;;SENT;?;SENT
+10440;;;;;;YES;;;;;;;;;
+10441;1;Ќу;Ќ”;INTJ;;YES;у;н;;;;;INTJ;Ќ”;PART
+10442;2;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10443;3;что;„“ќ;S-PRO n inan nom sg;;YES;о;т;ч;;;;S-PRO;„“ќ;CONJ
+10444;4;это;Ё“ќ;S-PRO n inan nom sg;;YES;о;т;э;;;;S-PRO;Ё“ќ;S n - nom sg
+10445;5;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10446;6;это;Ё“ќ;S-PRO n inan nom sg;;YES;о;т;э;;;;S-PRO;Ё“ќ;S n inan acc sg
+10447;7;ч...;„...;NONLEX;distort;YES;;;;ч;;;NONLEX;„...;S - - nonflex nonflex
+10448;8;кто-то; “ќ-“ќ;S-PRO anim m sg nom;;YES;о;т;;о;т;к;S-PRO; “ќ-“ќ;S m - nom sg
+10449;9;другой;ƒ–”√ќ…;A-PRO m sg nom;;YES;й;о;г;у;р;д;A-PRO;ƒ–”√ќ…;A - nom sg plen m -
+10450;10;!;!;SENT;;YES;;;;;;;SENT;!;SENT
+10451;;;;;;YES;;;;;;;;;
+10452;1;јаа;ј;INTJ;;YES;а;а;а;;;;INTJ;јјј;S m inan nonflex nonflex
+10453;2;!;!;SENT;;YES;;;;;;;SENT;!;SENT
+10454;;;;;;YES;;;;;;;;;
+10455;1;Ќ;Ќ;INIT abbr;;YES;н;;;;;;INIT;Ќ;S - - nonflex nonflex
+10456;2;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10457;;;;;;YES;;;;;;;;;
+10458;1;ћ.;ћ.;INIT abbr;;YES;;м;;;;;INIT;ћ.;S - - nonflex nonflex
+10459;2;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+10460;3;ƒаже;ƒј∆≈;PART ;;YES;е;ж;а;д;;;PART;ƒј∆≈;CONJ
+10461;4;собака;—ќЅј ј;S f anim nom sg;;YES;а;к;а;б;о;с;S;—ќЅј ј;S f anim nom sg
+10462;5;при;ѕ–»;PR;;YES;и;р;п;;;;PR;ѕ–»;PR
+10463;6;...;...;SENT;;YES;;;;;;;SENT;...;SENT
+10464;;;;;;YES;;;;;;;;;
+10465;1;ќй;ќ…;INTJ;;YES;й;о;;;;;INTJ;ќ…;INTJ
+10466;2;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10467;3;как; ј ;CONJ;;YES;к;а;к;;;;CONJ; ј ;ADV -
+10468;4;расцвЄл;–ј—÷¬≈—“»;V pf praet sg indic m -;;YES;л;Є;в;ц;с;а;V;–ј—÷¬≈—“»;V pf praet sg indic m -
+10469;5;цветок;÷¬≈“ќ ;S m inan nom sg;;YES;к;о;т;е;в;ц;S;÷¬≈“ќ ;S m inan nom sg
+10470;6;!;!;SENT;;YES;;;;;;;SENT;!;SENT
+10471;;;;;;YES;;;;;;;;;
+10472;1;»;»;CONJ;;YES;и;;;;;;CONJ;»;CONJ
+10473;2;девочка;ƒ≈¬ќ„ ј;S f anim nom sg;;YES;а;к;ч;о;в;е;S;ƒ≈¬ќ„ ј;S f anim nom sg
+10474;3;умеет;”ћ≈“№;V ipf praes sg indic - 3p;;YES;т;е;е;м;у;;V;”ћ≈“№;V ipf praes sg indic - 3p
+10475;4;считать;—„»“ј“№;V ipf - - inf - -;;YES;ь;т;а;т;и;ч;V;—„»“ј“№;V ipf - - inf - -
+10476;5;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10477;;;;;;YES;;;;;;;;;
+10478;1;»;»;CONJ;;YES;и;;;;;;CONJ;»;CONJ
+10479;2;его;ќЌ;S-PRO sg 3p m acc;;YES;о;г;е;;;;S-PRO;ќЌ;SPRO sg 3p m acc
+10480;3;сейчас;—≈…„ј—;ADV -;;YES;с;а;ч;й;е;с;ADV;—≈…„ј—;ADV -
+10481;4;угост€т;”√ќ—“»“№;V pf fut pl indic - 3p;;YES;т;€;т;с;о;г;V;”√ќ—“»“№;V pf fut pl indic - 3p
+10482;5;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10483;;;;;;YES;;;;;;;;;
+10484;1;Ѕабочка;ЅјЅќ„ ј;S f anim nom sg;;YES;а;к;ч;о;б;а;S;ЅјЅќ„ ј;S f anim nom sg
+10485;2;прилетела;ѕ–»Ћ≈“≈“№;V pf praet sg indic f -;;YES;а;л;е;т;е;л;V;ѕ–»Ћ≈“≈“№;V pf praet sg indic f -
+10486;3;на;Ќј;PR;;YES;а;н;;;;;PR;Ќј;PR
+10487;4;этот;Ё“ќ“;A-PRO m acc sg;;YES;т;о;т;э;;;A;Ё“ќ“;A - acc sg plen m inan
+10488;5;красивый; –ј—»¬џ…;A - acc sg plen m inan;;YES;й;ы;в;и;с;а;A-PRO; –ј—»¬џ…;A - acc sg plen m inan
+10489;6;цветок;÷¬≈“ќ ;S m inan acc sg;;YES;к;о;т;е;в;ц;S;÷¬≈“ќ ;S m inan acc sg
+10490;7;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10491;;;;;;YES;;;;;;;;;
+10492;1;Ќо;Ќќ;CONJ;;YES;о;н;;;;;CONJ;Ќќ;CONJ
+10493;2;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10494;3;наверное;Ќј¬≈–Ќќ≈;PARENTH;;YES;е;о;н;р;е;в;PARENTH;Ќј¬≈–Ќќ≈;ADV -
+10495;4;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10496;5;наступает;Ќј—“”ѕј“№;V ipf praes sg indic - 3p;;YES;т;е;а;п;у;т;V;Ќј—“”ѕј“№;V ipf praes sg indic - 3p
+10497;6;ночь;Ќќ„№;S f inan nom sg;;YES;ь;ч;о;н;;;S;Ќќ„№;S f inan acc sg
+10498;7;?;?;SENT;;YES;;;;;;;SENT;?;SENT
+10499;;;;;;YES;;;;;;;;;
+10500;1;»ли;»Ћ»;CONJ;;YES;и;л;и;;;;CONJ;»Ћ»;CONJ
+10501;2;ещЄ;≈ў≈;ADV -;;YES;Є;щ;е;;;;ADV;≈ў≈;ADV -
+10502;3;не;Ќ≈;PART;;YES;е;н;;;;;PART;Ќ≈;PART
+10503;4;ночь;Ќќ„№;S f inan nom sg;;YES;ь;ч;о;н;;;S;Ќќ„№;S f inan nom sg
+10504;5;?;?;SENT;;YES;;;;;;;SENT;?;SENT
+10505;;;;;;YES;;;;;;;;;
+10506;1;Ќаверное;Ќј¬≈–Ќќ≈;PARENTH;;YES;е;о;н;р;е;в;PARENTH;Ќј¬≈–Ќќ≈;ADV -
+10507;2;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10508;3;всЄ;¬—≈;S-PRO inan n sg nom;;YES;Є;с;в;;;;S-PRO;¬—≈;S n - acc sg
+10509;4;?;?;SENT;;YES;;;;;;;SENT;?;SENT
+10510;;;;;;YES;;;;;;;;;
+10511;1;√олос;√ќЋќ—;S m inan nom sg;;YES;с;о;л;о;г;;S;√ќЋќ—;S m inan nom sg
+10512;2;за;«ј;PR;;YES;а;з;;;;;PR;«ј;PR
+10513;3;кадром; јƒ–;S m inan ins sg;;YES;м;о;р;д;а;к;S; јƒ–;S m inan ins sg
+10514;4;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+10515;5;Ёто;Ё“ќ;S-PRO inan n nom sg;;YES;о;т;э;;;;S-PRO;Ё“ќ;S n - nom sg
+10516;6;он;ќЌ;S-PRO sg 3p m nom;;YES;н;о;;;;;S-PRO;ќЌ;SPRO sg 3p m nom
+10517;7;дал;ƒј“№;V pf praet sg indic m -;;YES;л;а;д;;;;V;ƒј“№;V pf praet sg indic m -
+10518;8;денег;ƒ≈Ќ№√»;S - inan gen pl;;YES;г;е;н;е;д;;S;ƒ≈Ќ№√»;S - inan gen pl
+10519;9;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10520;10;и;»;CONJ;;YES;и;;;;;;CONJ;»;CONJ
+10521;11;она;ќЌј;S-PRO sg 3p f nom;;YES;а;н;о;;;;S-PRO;ќЌј;SPRO sg 3p f nom
+10522;12;пошла;ѕќ…“»;V pf praet sg indic f -;;YES;а;л;ш;о;п;;V;ѕќ…“»;V pf praet sg indic f -
+10523;13;в;¬;PR;;YES;в;;;;;;PR;¬;PR
+10524;14;школу;Ў ќЋј;S f inan acc sg;;YES;у;л;о;к;ш;;S;Ў ќЋј;S f inan acc sg
+10525;15;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10526;;;;;;YES;;;;;;;;;
+10527;1;Ќ;Ќ;INIT abbr;;YES;н;;;;;;INIT;Ќ;S - - nonflex nonflex
+10528;2;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10529;;;;;;YES;;;;;;;;;
+10530;1;ћ.;ћ.;INIT abbr;;YES;;м;;;;;INIT;ћ.;S - - nonflex nonflex
+10531;2;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+10532;3;ќн;ќЌ;S-PRO sg 3p m nom;;YES;н;о;;;;;S-PRO;ќЌ;SPRO sg 3p m nom
+10533;4;увидел;”¬»ƒ≈“№;V pf praet sg indic m -;;YES;л;е;д;и;в;у;V;”¬»ƒ≈“№;V pf praet sg indic m -
+10534;5;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10535;6;как; ј ;CONJ;;YES;к;а;к;;;;CONJ; ј ;CONJ
+10536;7;преобразилась;ѕ–≈ќЅ–ј«»“№—я;V pf praet sg indic f med;;YES;ь;с;а;л;и;з;V;ѕ–≈ќЅ–ј«»“№—я;V pf praet sg indic f -
+10537;8;эта;Ё“ќ“;A-PRO nom sg f -;;YES;а;т;э;;;;A-PRO;Ё“ќ“;A - nom sg plen f -
+10538;9;девочка;ƒ≈¬ќ„ ј;S f anim nom sg;;YES;а;к;ч;о;в;е;S;ƒ≈¬ќ„ ј;S f anim nom sg
+10539;10;на;Ќј;PR;;YES;а;н;;;;;PR;Ќј;PR
+10540;11;его;≈√ќ;A-PRO ;;YES;о;г;е;;;;A-PRO;≈√ќ;A - nonflex nonflex plen - -
+10541;12;деньги;ƒ≈Ќ№√»;S - inan acc pl;;YES;и;г;ь;н;е;д;S;ƒ≈Ќ№√»;S - inan acc pl
+10542;13;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10543;;;;;;YES;;;;;;;;;
+10544;1;√олос;√ќЋќ—;S m inan nom sg;;YES;с;о;л;о;г;;S;√ќЋќ—;S m inan nom sg
+10545;2;за;«ј;PR;;YES;а;з;;;;;PR;«ј;PR
+10546;3;кадром; јƒ–;S m inan ins sg;;YES;м;о;р;д;а;к;S; јƒ–;S m inan ins sg
+10547;4;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+10548;5;ќна;ќЌј;S-PRO sg 3p f nom;;YES;а;н;о;;;;S-PRO;ќЌј;SPRO sg 3p f nom
+10549;6;пошла;ѕќ…“»;V pf praet sg indic f -;;YES;а;л;ш;о;п;;V;ѕќ…“»;V pf praet sg indic f -
+10550;7;в;¬;PR;;YES;в;;;;;;PR;¬;PR
+10551;8;школу;Ў ќЋј;S f inan acc sg;;YES;у;л;о;к;ш;;S;Ў ќЋј;S f inan acc sg
+10552;9;на;Ќј;PR;;YES;а;н;;;;;PR;Ќј;PR
+10553;10;его;≈√ќ;A-PRO;;YES;о;г;е;;;;A-PRO;≈√ќ;A - nonflex nonflex plen - -
+10554;11;деньги;ƒ≈Ќ№√»;S - inan acc pl;;YES;и;г;ь;н;е;д;S;ƒ≈Ќ№√»;S - inan acc pl
+10555;12;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10556;13;она;ќЌј;S-PRO sg 3p f nom;;YES;а;н;о;;;;S-PRO;ќЌј;SPRO sg 3p f nom
+10557;14;пошла;ѕќ…“»;V pf praet sg indic f -;;YES;а;л;ш;о;п;;V;ѕќ…“»;V pf praet sg indic f -
+10558;15;в;¬;PR;;YES;в;;;;;;PR;¬;PR
+10559;16;школу;Ў ќЋј;S f inan acc sg;;YES;у;л;о;к;ш;;S;Ў ќЋј;S f inan acc sg
+10560;17;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10561;;;;;;YES;;;;;;;;;
+10562;1;Ќ;Ќ;INIT abbr;;YES;н;;;;;;INIT;Ќ;S - - nonflex nonflex
+10563;2;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10564;;;;;;YES;;;;;;;;;
+10565;1;ћ.;ћ.;INIT abbr;;YES;;м;;;;;INIT;ћ.;S - - nonflex nonflex
+10566;2;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+10567;3;ќна;ќЌј;S-PRO sg 3p f nom;;YES;а;н;о;;;;S-PRO;ќЌј;SPRO sg 3p f nom
+10568;4;купила; ”ѕ»“№;V pf praet sg indic f -;;YES;а;л;и;п;у;к;V; ”ѕ»“№;V pf praet sg indic f -
+10569;5;новую;Ќќ¬џ…;A - acc sg plen f -;;YES;ю;у;в;о;н;;A;Ќќ¬џ…;A - acc sg plen f -
+10570;6;одежду;ќƒ≈∆ƒј;S f inan acc sg;;YES;у;д;ж;е;д;о;S;ќƒ≈∆ƒј;S f inan acc sg
+10571;7;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10572;;;;;;YES;;;;;;;;;
+10573;1;”лыбаетс€;”ЋџЅј“№—я;V ipf praes sg indic med 3p;;YES;€;с;т;е;а;б;V;”ЋџЅј“№—я;V ipf praes sg indic - 3p
+10574;2;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10575;3;самому;—јћ;A-PRO m sg dat;;YES;у;м;о;м;а;с;A-PRO;—јћ;A - dat sg plen m -
+10576;4;при€тно;ѕ–»я“Ќќ;ADV -;;YES;о;н;т;€;и;р;ADV;ѕ–»я“Ќќ;ADV -
+10577;5;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10578;6;что;„“ќ;CONJ;;YES;о;т;ч;;;;CONJ;„“ќ;CONJ
+10579;7;он;ќЌ;S-PRO sg 3p m nom;;YES;н;о;;;;;S-PRO;ќЌ;SPRO sg 3p m nom
+10580;8;сделал;—ƒ≈Ћј“№;V pf praet sg indic m -;;YES;л;а;л;е;д;с;V;—ƒ≈Ћј“№;V pf praet sg indic m -
+10581;9;такие;“ј ќ…;A-PRO pl acc;;YES;е;и;к;а;т;;A-PRO;“ј ќ…;A - nom pl plen - -
+10582;10;добрые;ƒќЅ–џ…;A - acc pl plen - -;;YES;е;ы;р;б;о;д;A;ƒќЅ–џ…;A - nom pl plen - -
+10583;11;дела;ƒ≈Ћќ;S n inan acc pl;;YES;а;л;е;д;;;S;ƒ≈Ћќ;S n inan nom pl
+10584;12;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10585;;;;;;YES;;;;;;;;;
+10586;1;Ќу;Ќ”;INTJ;;YES;у;н;;;;;INTJ;Ќ”;PART
+10587;2;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10588;3;и;»;CONJ;;YES;и;;;;;;CONJ;»;CONJ
+10589;4;самому;—јћ;A-PRO m sg dat;;YES;у;м;о;м;а;с;A-PRO;—јћ;A - dat sg plen m -
+10590;5;можно;ћќ∆Ќќ;PRAEDIC ;;YES;о;н;ж;о;м;;PRAEDIC;ћќ∆Ќќ;ADV -
+10591;6;теперь;“≈ѕ≈–№;ADV -;;YES;ь;р;е;п;е;т;ADV;“≈ѕ≈–№;ADV -
+10592;7;подкрепитьс€;ѕќƒ –≈ѕ»“№—я;V pf - - inf - med;;YES;€;с;ь;т;и;п;V;ѕќƒ –≈ѕ»“№—я;V pf - - inf - -
+10593;8;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10594;;;;;;YES;;;;;;;;;
+10595;1;»;»;CONJ;;YES;и;;;;;;CONJ;»;CONJ
+10596;2;помолившись;ѕќћќЋ»“№—я;V pf praet - ger - -;;YES;ь;с;и;ш;в;и;V;ѕќћќЋ»“№—я;V pf praet - ger - -
+10597;3;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10598;4;лечь;Ћ≈„№;V pf - - inf - -;;YES;ь;ч;е;л;;;V;Ћ≈„№;V pf - - inf - -
+10599;5;спать;—ѕј“№;V ipf - - inf - -;;YES;ь;т;а;п;с;;V;—ѕј“№;V ipf - - inf - -
+10600;6;?;?;SENT;;YES;;;;;;;SENT;?;SENT
+10601;;;;;;YES;;;;;;;;;
+10602;1;Ќет;Ќ≈“;PART;;YES;т;е;н;;;;PART;Ќ≈“;PART
+10603;2;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10604;3;что-то;„“ќ-“ќ;S-PRO n anim nom sg;;YES;о;т;;о;т;ч;S-PRO;„“ќ-“ќ;S n - nom sg
+10605;4;не;Ќ≈;PART;;YES;е;н;;;;;PART;Ќ≈;PART
+10606;5;похоже;ѕќ’ќ∆»…;A - - sg brev n -;;YES;е;ж;о;х;о;п;A;ѕќ’ќ∆»…;A - - sg brev n -
+10607;6;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10608;;;;;;YES;;;;;;;;;
+10609;1;“еперь;“≈ѕ≈–№;ADV -;;YES;ь;р;е;п;е;т;ADV;“≈ѕ≈–№;ADV -
+10610;2;ему;ќЌ;S-PRO sg 3p m dat;;YES;у;м;е;;;;S-PRO;ќЌ;SPRO sg 3p m dat
+10611;3;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10612;4;наверное;Ќј¬≈–Ќќ≈;PARENTH ;;YES;е;о;н;р;е;в;PARENTH;Ќј¬≈–Ќќ≈;ADV -
+10613;5;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10614;6;будет...;Ѕџ“№...;V ipf fut sg indic - 3p;;YES;;;;т;е;д;V;Ѕџ“№...;V ipf praes sg indic - 3p
+10615;7;будут;Ѕџ“№;V ipf fut pl indic - 3p;;YES;т;у;д;у;б;;V;Ѕџ“№;V ipf praes pl indic - 3p
+10616;8;все;¬—≈;S-PRO - - nom pl;;YES;е;с;в;;;;S;¬—≈;S - - nom pl
+10617;9;делать;ƒ≈Ћј“№;V ipf - - inf - -;;YES;ь;т;а;л;е;д;V;ƒ≈Ћј“№;V ipf - - inf - -
+10618;10;какие-то; ј ќ…-“ќ;A-PRO - acc pl - -;;YES;о;т;;е;и;к;A-PRO; ј ќ…-“ќ;A - nom pl plen - -
+10619;11;добрые;ƒќЅ–џ…;A - acc pl plen - -;;YES;е;ы;р;б;о;д;A;ƒќЅ–џ…;A - nom pl plen - -
+10620;12;дела;ƒ≈Ћќ;S n inan acc pl;;YES;а;л;е;д;;;S;ƒ≈Ћќ;S n inan nom pl
+10621;13;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10622;;;;;;YES;;;;;;;;;
+10623;1;ќой;ќ…;INTJ;;YES;й;о;о;;;;INTJ;ќќ…;S f anim nonflex nonflex
+10624;2;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10625;3;конечно; ќЌ≈„Ќќ;PARENTH;;YES;о;н;ч;е;н;о;PARENTH; ќЌ≈„Ќќ;ADV -
+10626;4;!;!;SENT;;YES;;;;;;;SENT;!;SENT
+10627;;;;;;YES;;;;;;;;;
+10628;1;Ќ;Ќ;INIT abbr;;YES;н;;;;;;INIT;Ќ;S - - nonflex nonflex
+10629;2;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10630;;;;;;YES;;;;;;;;;
+10631;1;ћ.;ћ.;INIT abbr;;YES;;м;;;;;INIT;ћ.;S - - nonflex nonflex
+10632;2;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+10633;3;ƒаже;ƒј∆≈;PART;;YES;е;ж;а;д;;;PART;ƒј∆≈;CONJ
+10634;4;собака;—ќЅј ј;S f anim nom sg;;YES;а;к;а;б;о;с;S;—ќЅј ј;S f anim nom sg
+10635;5;при;ѕ–»;PR;;YES;и;р;п;;;;PR;ѕ–»;PR
+10636;6;...;...;SENT;;YES;;;;;;;SENT;...;SENT
+10637;;;;;;YES;;;;;;;;;
+10638;1;ќй;ќ…;INTJ;;YES;й;о;;;;;INTJ;ќ…;INTJ
+10639;2;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10640;3;как; ј ;CONJ;;YES;к;а;к;;;;CONJ; ј ;ADV -
+10641;4;расцвЄл;–ј—÷¬≈—“»;V pf praet sg indic m -;;YES;л;Є;в;ц;с;а;V;–ј—÷¬≈—“»;V pf praet sg indic m -
+10642;5;цветок;÷¬≈“ќ ;S m inan nom sg;;YES;к;о;т;е;в;ц;S;÷¬≈“ќ ;S m inan nom sg
+10643;6;!;!;SENT;;YES;;;;;;;SENT;!;SENT
+10644;;;;;;YES;;;;;;;;;
+10645;1;»;»;CONJ;;YES;и;;;;;;CONJ;»;CONJ
+10646;2;девочка;ƒ≈¬ќ„ ј;S f anim nom sg;;YES;а;к;ч;о;в;е;S;ƒ≈¬ќ„ ј;S f anim nom sg
+10647;3;умеет;”ћ≈“№;V ipf praes sg indic - 3p;;YES;т;е;е;м;у;;V;”ћ≈“№;V ipf praes sg indic - 3p
+10648;4;считать;—„»“ј“№;V ipf - - inf - -;;YES;ь;т;а;т;и;ч;V;—„»“ј“№;V ipf - - inf - -
+10649;5;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10650;;;;;;YES;;;;;;;;;
+10651;1;»;»;CONJ;;YES;и;;;;;;CONJ;»;CONJ
+10652;2;его;ќЌ;S-PRO sg 3p m acc;;YES;о;г;е;;;;S-PRO;ќЌ;SPRO sg 3p m acc
+10653;3;сейчас;—≈…„ј—;ADV -;;YES;с;а;ч;й;е;с;ADV;—≈…„ј—;ADV -
+10654;4;угост€т;”√ќ—“»“№;V pf fut pl indic - 3p;;YES;т;€;т;с;о;г;V;”√ќ—“»“№;V pf fut pl indic - 3p
+10655;5;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10656;;;;;;YES;;;;;;;;;
+10657;1;Ѕабочка;ЅјЅќ„ ј;S f anim nom sg;;YES;а;к;ч;о;б;а;S;ЅјЅќ„ ј;S f anim nom sg
+10658;2;прилетела;ѕ–»Ћ≈“≈“№;V pf praet sg indic f -;;YES;а;л;е;т;е;л;V;ѕ–»Ћ≈“≈“№;V pf praet sg indic f -
+10659;3;на;Ќј;PR;;YES;а;н;;;;;PR;Ќј;PR
+10660;4;этот;Ё“ќ“;A-PRO m sg acc ;;YES;т;о;т;э;;;A-PRO;Ё“ќ“;A - acc sg plen m inan
+10661;5;красивый; –ј—»¬џ…;A - acc sg plen m inan;;YES;й;ы;в;и;с;а;A; –ј—»¬џ…;A - acc sg plen m inan
+10662;6;цветок;÷¬≈“ќ ;S m inan acc sg;;YES;к;о;т;е;в;ц;S;÷¬≈“ќ ;S m inan acc sg
+10663;7;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10664;;;;;;YES;;;;;;;;;
+10665;1;Ќо;Ќќ;CONJ;;YES;о;н;;;;;CONJ;Ќќ;CONJ
+10666;2;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10667;3;наверное;Ќј¬≈–Ќќ≈;PARENTH;;YES;е;о;н;р;е;в;PARENTH;Ќј¬≈–Ќќ≈;ADV -
+10668;4;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10669;5;наступает;Ќј—“”ѕј“№;V ipf praes sg indic - 3p;;YES;т;е;а;п;у;т;V;Ќј—“”ѕј“№;V ipf praes sg indic - 3p
+10670;6;ночь;Ќќ„№;S f inan nom sg;;YES;ь;ч;о;н;;;S;Ќќ„№;S f inan acc sg
+10671;7;?;?;SENT;;YES;;;;;;;SENT;?;SENT
+10672;;;;;;YES;;;;;;;;;
+10673;1;»ли;»Ћ»;CONJ;;YES;и;л;и;;;;CONJ;»Ћ»;CONJ
+10674;2;ещЄ;≈ў≈;ADV -;;YES;Є;щ;е;;;;ADV;≈ў≈;ADV -
+10675;3;не;Ќ≈;PART;;YES;е;н;;;;;PART;Ќ≈;PART
+10676;4;ночь;Ќќ„№;S f inan nom sg;;YES;ь;ч;о;н;;;S;Ќќ„№;S f inan nom sg
+10677;5;?;?;SENT;;YES;;;;;;;SENT;?;SENT
+10678;;;;;;YES;;;;;;;;;
+10679;1;Ќаверное;Ќј¬≈–Ќќ≈;PARENTH;;YES;е;о;н;р;е;в;PARENTH;Ќј¬≈–Ќќ≈;ADV -
+10680;2;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10681;3;всЄ;¬—≈;S-PRO inan n sg nom;;YES;Є;с;в;;;;S-PRO;¬—≈;S n - acc sg
+10682;4;?;?;SENT;;YES;;;;;;;SENT;?;SENT
+10683;;;;;;YES;;;;;;;;;
+10684;1;√олос;√ќЋќ—;S m inan nom sg;;YES;с;о;л;о;г;;S;√ќЋќ—;S m inan nom sg
+10685;2;за;«ј;PR;;YES;а;з;;;;;PR;«ј;PR
+10686;3;кадром; јƒ–;S m inan ins sg;;YES;м;о;р;д;а;к;S; јƒ–;S m inan ins sg
+10687;4;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+10688;5;ƒа;ƒј;PART;;YES;а;д;;;;;PART;ƒј;CONJ
+10689;6;,;,;PUNC;;YES;;;;;;;PUNC;,;PUNC
+10690;7;всЄ;¬—≈;S-PRO inan n sg nom;;YES;Є;с;в;;;;S-PRO;¬—≈;S n - nom sg
+10691;8;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10692;;;;;;YES;;;;;;;;;
+10693;1;Ќ;Ќ;INIT abbr;;YES;н;;;;;;INIT;Ќ;S - - nonflex nonflex
+10694;2;.;.;SENT;;YES;;;;;;;SENT;.;SENT
+10695;;;;;;YES;;;;;;;;;
+10696;1;ћ.;ћ.;INIT abbr;;YES;;м;;;;;INIT;ћ.;S - - nonflex nonflex
+10697;2;@;@;PUNC;;YES;;;;;;;PUNC;@;PUNC
+10698;3;√удбай;√”ƒЅј…;S f inan sg 0;new;YES;й;а;б;д;у;г;S;√”ƒЅј…;S f inan nom sg
+10699;4;.;.;SENT;;YES;;;;;;;SENT;.;SENT
